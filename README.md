@@ -91,7 +91,7 @@ echo urlencode(serialize($a));
 
 url编码后，抓包修改发送即可。以下截图为重放攻击。
 
-![image-20220205105027434](C:\Users\qte\AppData\Roaming\Typora\typora-user-images\image-20220205105027434.png)
+![image-20220205105027434](pic\image-20220205105027434.png)
 
 
 
